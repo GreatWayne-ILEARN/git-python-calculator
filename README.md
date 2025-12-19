@@ -23,10 +23,3 @@ The calculator performs basic arithmetic operations and demonstrates proper Git 
 - Git
 - GitHub
 
----
-
-## 📂 Project Structure
-git-fpython-calculator/
-│
-├── calculator.py
-└── README.md
